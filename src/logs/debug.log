@@ -1,0 +1,28 @@
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/Todo',
+  level: 'info',
+  timestamp: '2021-05-23T06:30:58.586Z',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-05-23T06:30:58.595Z',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-05-23T06:30:58.596Z',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-05-23T06:30:58.611Z',
+  label: undefined,
+  metadata: {}
+}
